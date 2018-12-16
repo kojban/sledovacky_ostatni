@@ -1,0 +1,169 @@
+2000:X
+2003:X
+2004:T
+2006:X6
+102004sv:T:Praha hl.n.;7:40,Praha-Libeň;7:45
+102006sv:6:Praha hl.n.;8:39,Praha-Libeň;8:44
+9005:X
+102055sv:25:Praha-Libeň;10:10,Praha hl.n.;10:16
+2055:25
+9012:X
+2060:25
+2015
+2018:X
+9019:X
+2064:25
+2023:25
+2070:25
+109019sv:X5:Čerčany;20:10,Praha-Libeň;20:55
+9025:25
+9026:25
+
+2001:T
+2000:T
+9000:X
+9001:X
+102000sv:T:Praha hl.n.;5:09,Praha-Libeň;5:14
+109003sv:T:Praha-Libeň;6:40,Praha hl.n.;6:45
+9003:T
+102053sv:7:Praha-Libeň;8:22,Praha hl.n.;8:29
+2053:6
+9008:X
+9007:X
+9058:T
+109058sv:T:Praha hl.n.;12:12,Praha-Libeň;12:17
+2058:6
+2057:6
+9014:X
+2019:X
+2016:6
+2063:6
+2022:X
+109069sv:T:Praha-Libeň;17:40,Praha hl.n.;17:45
+2025:X
+2024:6
+9023:6
+9074:T
+2026:X
+
+102001pk:6:Praha hl.n.;0:30,Vrané nad Vltavou;1:00
+9031:X6
+109000pk:X:Čerčany;3:50,Týnec nad Sázavou;4:05
+9033:X
+9030:X
+9037:X
+9006:X6
+109006sv:X6:Praha hl.n.;8:21,Praha-Libeň;8:26
+102599sv:T:Čerčany;0:55,Benešov u Prahy;1:04
+2500:T
+2503:T
+102598sv:T:Benešov u Prahy;3:40,Čerčany;3:49
+9052:T
+2007:T
+2010:T
+9063:T
+9064:T
+109011sv:X:Praha-Libeň;13:37,Praha hl.n.;13:42
+9011:X
+9018:X
+20023:X
+9067:T
+9070:T
+109070sv:T:Praha hl.n.;20:16,Praha-Libeň;20:21
+
+2000:6
+2002:X
+102000sv:6:Praha hl.n.;5:09,Praha-Libeň;5:14
+2005:X
+109003sv:6:Praha-Libeň;6:40,Praha hl.n.;6:45
+102053sv:T:Praha-Libeň;8:22,Praha hl.n.;8:29
+2053:T
+9003:6
+2008:X
+2009:X
+9058:6
+109058sv:6:Praha hl.n.;12:12,Praha-Libeň;12:17
+2058:T
+2057:T
+2016:T
+2063:T
+2012:X
+2013:X
+2016:X
+9017:X
+2024:T
+109069sv:6:Praha-Libeň;17:40,Praha hl.n.;17:45
+9069:6
+9023:T
+9074:6
+
+102001pk:T:Praha hl.n.;0:30,Vrané nad Vltavou;1:00
+9031:T
+9050:25
+9051:25
+9056:25
+9061:25
+9062:25
+2061:25
+2066:25
+9071:25
+9002:X
+9003:X
+9010:X
+9009:X
+9016:X
+2021:X
+2024:X
+9023:X
+
+102599sv:6:Čerčany;0:55,Benešov u Prahy;1:04
+2500:6
+2503:6
+102598sv:6:Benešov u Prahy;3:40,Čerčany;3:49
+109091sv:X1:Praha-Libeň;4:34,Čerčany;5:07
+9052:6
+9004:X
+2007:X6
+9006:T
+109006sv:T:Praha hl.n.;8:21,Praha-Libeň;8:26
+109059sv:T:Praha-Libeň;9:40,Praha hl.n.;9:45
+9059:T
+2010:X6
+9063:6
+2011:X
+2014:X
+2017:X
+9064:6
+9067:6
+2020:X
+9021:X
+9070:6
+9072:T
+2067:6
+2027:T
+9026:X
+
+2001:X6
+102002pk:X:Dobříš;4:33,Čisovice;5:04
+2031:X
+2004:X6
+102004sv:6:Praha hl.n.;7:40,Praha-Libeň;7:45
+2006:T
+102006sv:6:Praha hl.n.;8:39,Praha-Libeň;8:44
+2041:X
+2040:X
+102040sv:X:Praha hl.n.;9:16,Praha-Libeň;9:21
+109059sv:6:Praha-Libeň;9:40,Praha hl.n.;9:45
+109015sv:X:Praha-Libeň;15:37,Praha hl.n.;15:42
+9059:6
+9015:X
+9034:X
+109017pk:X:Týnec nad Sázavou;18:39,Čerčany;18:55
+102067sv:T:Praha-Libeň;19:56,Praha hl.n.;20:01
+2067:T
+9072:6
+9022:X
+2027:X6
+
+
+PŘEDPOKLADY
