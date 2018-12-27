@@ -32,7 +32,7 @@
 8532: X: Mladá Boleslav hl.n.;19:23, Mladějov v Čechách;20:21
 8537: X: Mladějov v Čechách;20:34, Mladá Boleslav hl.n.;21:34
 18558: 6: Mladá Boleslav hl.n.;22:11, Mladá Boleslav město;22:17
-18525: 6: Zug(CH);6:35, Pfäffikon SZ;8:15
+18525: 6: Mladá Boleslav město;22:32, Mšeno;23:25
 
 106096sv: X: Mladá Boleslav hl.n.;4:23, Mladá Boleslav město;4:29
 6035: X: Mladá Boleslav město;4:33, Nymburk hl.n.;5:21
@@ -79,8 +79,8 @@
 9576: 25: Mladá Boleslav město;17:33, Turnov;18:33
 9577: 25: Turnov;19:27, Mladá Boleslav hl.n.;20:10
 9575: X: Turnov;17:23, Mladá Boleslav město;18:20
-8542: X1234: Kampen(NL);12:32, Zwolle;12:42
-8543: X1234: Zwolle;13:49, Kampen(NL);13:59
+8542: X1234: Mladá Boleslav;18:32, Dolní Bousov;18:58
+8543: X1234: Dolní Bousov;19:02, Mladá Boleslav hl.n.;19:28
 9578: X: Mladá Boleslav město;19:32, Turnov;20:28
 9579: X: Turnov;20:41, Mladá Boleslav hl.n.;21:16
 8534: X1234: Mladá Boleslav hl.n.;22:20, Mladějov v Čechách;23:23
@@ -121,7 +121,7 @@
 108500pk: 6: Mladá Boleslav hl.n.;5:14, Mladá Boleslav město;5:20
 8503: 6: Mladá Boleslav město;6:24, Poděbrady;7:19
 8507: X: Mladějov v Čechách;6:33, Mladá Boleslav hl.n.;7:36
-18521: 7: Sala stationzastavuje jen pro nástup;17:33, Uppsala Centralzastavuje jen pro výstup;18:12
+18521: 7: Mladá Boleslav město;7:02, Mladá Boleslav hl.n.;7:08
 108594sv: 6: Poděbrady;7:23, Nymburk hl.n.;7:32
 6042: 6: Nymburk hl.n.;9:04, Mladá Boleslav město;9:49
 6041: 6: Mladá Boleslav město;10:06, Nymburk hl.n.;10:51
@@ -145,7 +145,7 @@
 8533: 7: Mladějov v Čechách;18:25, Mladá Boleslav hl.n.;19:20
 6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město: 6: Nymburk hl.n.;19:04, Mladá Boleslav město;19:49
 6055: 6: Mladá Boleslav město;20:06, Nymburk hl.n.;20:51
-8560: 7: Kalmar Centralzastavuje jen pro nástup;14:36, Linköping Centralzastavuje jen pro výstup;17:42
+8560: 7: Mšeno;20:31, Mladá Boleslav město;21:28
 6058: 6: Nymburk hl.n.;21:04, Řepov;21:51
 6057: 6: Řepov;21:53, Kolín;23:29
 8537: 7: Mladá Boleslav město;21:28, Mladá Boleslav hl.n.;21:34
@@ -157,7 +157,7 @@
 8501: X6: Mladějov v Čechách;4:30, Mladá Boleslav hl.n.;5:26
 8551: 6: Mantova;6:00, Roma Termini;9:43
 8550: 6: Balatonszentgyörgy;4:38, Nagykanizsa;5:24
-18521: 6: Sala stationzastavuje jen pro nástup;17:33, Uppsala Centralzastavuje jen pro výstup;18:12
+18521: 6: Mladá Boleslav město;7:02, Mladá Boleslav hl.n.;7:08
 9562: X: Mladá Boleslav hl.n.;5:39, Turnov;6:32
 9563: X: Turnov;7:27, Nymburk hl.n.;8:51
 8503: T: Mladá Boleslav město;6:24, Poděbrady;7:19
@@ -173,7 +173,7 @@
 6048: T: Nymburk hl.n.;13:04, Mladá Boleslav město;13:49
 6047: T: Mladá Boleslav město;14:06, Nymburk hl.n.;14:51
 8540: X: Mladá Boleslav město;12:24, Dolní Bousov;12:51
-8521: X: Lomnice n.Popelkou;12:58, Mladá Boleslav hl.n.;14:38
+8521: X: Dolní Bousov;14:02, Mladá Boleslav hl.n.;14:38
 6049: X: Mladá Boleslav hl.n.;14:41, Nymburk hl.n.;15:20
 6052: X: Nymburk hl.n.;16:12, Mladá Boleslav město;16:58
 8522: 6: Mělník;13:06, Mšeno;13:45
@@ -187,7 +187,7 @@
 8544: X5: Mladá Boleslav hl.n.;18:40, Sobotka;19:21
 8545: X5: Sobotka;19:50, Mladá Boleslav hl.n.;20:35
 6055: 7: Mladá Boleslav město;20:06, Nymburk hl.n.;20:51
-8560: 6: Kalmar Centralzastavuje jen pro nástup;14:36, Linköping Centralzastavuje jen pro výstup;17:42
+8560: 6: Mšeno;20:31, Mladá Boleslav město;21:28
 6058: 7: Nymburk hl.n.;21:04, Řepov;21:51
 8537: 6: Mladá Boleslav město;21:28, Mladá Boleslav hl.n.;21:34
 6057: 7: Řepov;21:53, Kolín;23:29
