@@ -1,0 +1,225 @@
+6620:X
+6623:X
+6624:X
+106090sv:25:Česká Lípa hl.n.;3:44,Nový Bor;3:57
+6001:25
+6002:25
+6005:25
+6006:25
+6011:25
+6010:25
+106625pk:Děčín hl.n.n.;22:40,Česká Lípa hl.n.;23:22
+
+106090sv:X:Česká Lípa hl.n.;3:44,Nový Bor;3:57
+6001:X
+6002:X
+106005pk:X:Svor;7:07,Česká Lípa hl.n.;7:30
+6620:25
+6623:25
+6624:25
+106607pk:25:Děčín hl.n.;10:44,Česká Lípa hl.n.;11:24
+6013:X:Česká Lípa hl.n.;13:37,Mladá Boleslav hl.n.;14:34
+6013:25:Česká Lípa hl.n.;13:37,Mladá Boleslav město;14:46
+9559:X
+9574:25
+9558:X
+9575:25
+8531:25
+8544:25
+9578:25
+9579:25
+8531:X
+8532:X
+8537:X
+18558:6
+18525:6
+
+106096sv:X:Mladá Boleslav hl.n.;4:23,Mladá Boleslav město;4:29
+6035:X
+8504:X
+8513:X
+8510:X
+9560:6
+9561:6
+9562:T
+9563:T
+8502:6
+8553:6
+8508:T
+8553:6
+8512:6:Mělník;9:05,Mladějov v Čechách;11:35
+8517:T
+8519:X
+8523:6:Mladějov v Čechách;14:25,Mělník;16:49
+8524:X
+8526:7
+8529:X
+109576pk:X:Mladá Boleslav město;17:33,Mladá Boleslav hl.n.;17:39
+8532:6
+9576:X
+9577:X
+8537|pk Mlm-Mlh|postrk Mladá Boleslav město - Mladá Boleslav hl.n.:6:Mladějov v Čechách;20:34,Mladá Boleslav hl.n.;21:34
+
+106096sv:25:Mladá Boleslav hl.n.;4:23,Mladá Boleslav město;4:29
+6035:25
+6040:25
+6039:25
+106042pk:25:Nymburk hl.n.;9:04,Mladá Boleslav hl.n.;9:41
+9564:X
+9565:X
+9568:25
+9567:25
+9572:25
+108520pk:X:Mladá Boleslav hl.n.;14:25,Dolní Bousov;14:58
+8541:X
+9573:25
+1946:X:Mladá Boleslav hl.n.;15:47,Turnov;16:29
+8525:25
+18556:25
+9576:25
+9577:25
+9575:X
+8542:X1234
+8543:X1234
+9578:X
+9579:X
+8534:X1234
+
+9562:6
+8503:X
+8502:7
+8553:T
+108594sv:X:Poděbrady;7:23,Nymburk hl.n.;7:32
+15809:X
+15810:X
+9563:6
+8508:6
+8512:7
+8517:6
+8523:7
+6046:X
+6045:X
+6050:X
+6051:X
+6054:X
+6053:X
+8532:7
+8537|pk Mlm-Mlh|postrk Mladá Boleslav město - Mladá Boleslav hl.n.:7:Mladějov v Čechách;20:34,Mladá Boleslav hl.n.;21:34
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město:X1234:Nymburk hl.n.;19:04,Mladá Boleslav město;19:49
+6056:X5
+6055:X
+6058|pk Mlh-Řep|postrk Mladá Boleslav hl.n. - Řepov:X:Nymburk hl.n.;21:04,Řepov;21:51
+8526:6
+8534:T
+6059:X
+
+5800:6
+5801:6
+6038:X6
+8550:7:Mšeno;6:13,Mladá Boleslav město;7:00
+108500pk:X:Mladá Boleslav hl.n.;5:14,Mladějov v Čechách;6:19
+108500pk:6:Mladá Boleslav hl.n.;5:14,Mladá Boleslav město;5:20
+8503:6
+8507:X
+18521:7
+108594sv:6:Poděbrady;7:23,Nymburk hl.n.;7:32
+6042:6
+6041:6
+6044:6
+6043:6
+6048:6
+6047:6
+6050:6
+6051:6
+6054:6
+6053:6
+8506:7
+8515:7
+108514pk:X:Mladá Boleslav hl.n.;11:24,Mladá Boleslav město;11:30
+9570:X
+9569:X
+8520:X
+8525:X
+8526:X
+8522:7
+8533:7
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město:6:Nymburk hl.n.;19:04,Mladá Boleslav město;19:49
+6055:6
+8560:7
+6058:6
+6057:6
+8537:7:Mladá Boleslav město;21:28,Mladá Boleslav hl.n.;21:34
+
+5800:7
+5801:7
+6038:7
+8500:7
+8501:X6
+8551:6
+8550:6
+18521:6
+9562:X
+9563:X
+8503:T
+108594sv:T:Poděbrady;7:23,Nymburk hl.n.;7:32
+8506:6
+8515:6
+6042:XT
+6041:XT
+6044|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město:X:Nymburk hl.n.;11:04,Mladá Boleslav město;11:49
+6044:T
+8515:6
+6043:T
+6048:T
+6047:T
+8540:X
+8521:X
+6049:X
+6052:X
+8522:6
+6050:T
+6051:T
+6054:T
+6053:T
+9576:X:Mladá Boleslav město;17:33,Mladá Boleslav hl.n.;17:39
+8533:6
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město:T:Nymburk hl.n.;19:04,Mladá Boleslav město;19:49
+8544:X5
+8545:X5
+6055:7
+8560:6
+6058:7
+8537:6:Mladá Boleslav město;21:28,Mladá Boleslav hl.n.;21:34
+6057:7
+8534:X5
+
+9560:X
+9561:X
+8502:X
+8509:X
+9568:X
+9567:X
+8505:25
+9566:25
+9565:25
+109506pk:25:Mladá Boleslav hl.n.;11:26,Mladá Boleslav město;11:32
+9570:25
+9569:25
+9557:X
+9556:X
+9569:25
+18553:25
+9556:X
+6012
+6669:z25
+6668:z25
+
+6005:X
+6006:X
+6011:X
+6010:X
+6017
+6016
+6071
+6070
+106093sv::Svor;22:55,Česká Lípa hl.n.;23:14
