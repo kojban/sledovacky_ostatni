@@ -1,6 +1,0 @@
-18350:25:Lovosice;8:35,Most;9:48
-18351:25:Most;10:18,Lovosice;11:28
-18352:25:Lovosice;12:35,Most;13:48
-18353:25:Most;14:18,Lovosice;15:28
-18354:25:Lovosice;16:35,Most;17:48
-18355:25:Most;18:18,Lovosice;19:28
