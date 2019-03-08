@@ -1,0 +1,2 @@
+1561:6:Česká Kamenice;8:03,Liberec;10:24
+1560:6:Liberec;15:31,Český Kamenice;17:40
