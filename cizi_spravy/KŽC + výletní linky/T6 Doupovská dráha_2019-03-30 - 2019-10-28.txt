@@ -1,0 +1,12 @@
+18360:25:Kadaň;8:21,Kadaňský Rohozec;9:07
+18363:25:Kadňský Rohozec;9:12,Vilémov u Kadaně;9:30
+18362:25:Vilémov u Kadaně;9:33,Krásný Dvůr;9:48
+18365:25:Krásný Dvůr;9:52,Kadaň-Prunéřov;10:42
+18366:25:Kadaň-Prunéřov;10:51,Podbořany;12:00
+18367:25:Podbořany;12:20,Kadaň;13:23
+18368:25:Kadaň;14:20,Radonice u Kadaně;14:58
+18371:25:Radonice u Kadaně;15:10,Vilémov u Kadaně;15:21
+18370:25:Vilémov u Kadaně;15:24,Krásný Dvůr;15:38
+18373:25:Krásný Dvůr;15:46,Kadaň-Prunéřov;16:36
+18374:25:Kadaň-Prunéřov;16:51,Podbořany;18:00
+18375:25:Podbořany;18:20,Kadaň;19:23
