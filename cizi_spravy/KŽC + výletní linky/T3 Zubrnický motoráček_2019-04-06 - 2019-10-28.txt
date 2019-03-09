@@ -1,0 +1,8 @@
+15480:25,-2109,-2209:Ústí nad Labem-Střekov;10:10,Zubrnice;10:43
+15481:25,-2109,-2209:Zubrnice;11:00,Ústí nad Labem-Střekov;11:38
+15482:25,-2109,-2209:Ústí nad Labem-Střekov;12:10,Zubrnice;12:43
+15483:25,-2109,-2209:Zubrnice;13:00,Ústí nad Labem-Střekov;13:38
+15484:25,-2109,-2209:Ústí nad Labem-Střekov;14:10,Zubrnice;14:43
+15485:25,-2109,-2209:Zubrnice;15:00,Ústí nad Labem-Střekov;15:38
+15486:25,-2109,-2209:Ústí nad Labem-Střekov;16:10,Zubrnice;16:43
+15487:25,-2109,-2209:Zubrnice;17:00,Ústí nad Labem-Střekov;17:38
