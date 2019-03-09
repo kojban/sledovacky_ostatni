@@ -1,0 +1,3 @@
+1799:25:Děčín hl.n.;9:37,Mikulášovice dolní nádraží;11:22
+26024:25:Mikulášovice dolní nádraží;11:56,Krásná Lípa;12:32;12:44,Rumburk;12:50
+1913:25:Rumburk;16:53,Děčín hl.n.;18:18
